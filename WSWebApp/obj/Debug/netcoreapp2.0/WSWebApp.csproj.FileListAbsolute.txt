@@ -1,0 +1,11 @@
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\bin\Debug\netcoreapp2.0\WSWebApp.deps.json
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\bin\Debug\netcoreapp2.0\WSWebApp.runtimeconfig.json
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\bin\Debug\netcoreapp2.0\WSWebApp.runtimeconfig.dev.json
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\bin\Debug\netcoreapp2.0\WSWebApp.dll
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\bin\Debug\netcoreapp2.0\WSWebApp.pdb
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\obj\Debug\netcoreapp2.0\WSWebApp.csprojResolveAssemblyReference.cache
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\obj\Debug\netcoreapp2.0\WSWebApp.csproj.CoreCompileInputs.cache
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\obj\Debug\netcoreapp2.0\WSWebApp.AssemblyInfoInputs.cache
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\obj\Debug\netcoreapp2.0\WSWebApp.AssemblyInfo.cs
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\obj\Debug\netcoreapp2.0\WSWebApp.dll
+C:\Users\gpaull\Source\repos\WSWebApp\WSWebApp\obj\Debug\netcoreapp2.0\WSWebApp.pdb

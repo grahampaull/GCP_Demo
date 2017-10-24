@@ -1,0 +1,1 @@
+C:\Users\gpaull\Source\repos\WSWebApp\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
